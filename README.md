@@ -2,6 +2,9 @@
 Welcome to the classic Snake Game built using HTML, CSS, and JavaScript!
 Control the snake, eat the food, and avoid crashing into yourself. The longer you survive, the more challenging it becomes!
 
+🎮 Live Demo
+https://uddipta7.github.io/Snake-Game/
+
 🚀 Features
 🎯 Classic snake gameplay
 
@@ -45,6 +48,7 @@ Arrow Up ↑	Move Up
 Arrow Down ↓	Move Down
 Arrow Left ←	Move Left
 Arrow Right →	Move Right
+
 🧠 Game Rules
 Eat food to grow longer.
 
