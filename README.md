@@ -16,8 +16,6 @@ https://uddipta7.github.io/Snake-Game/
 
 📱 Responsive design for mobile and desktop
 
-🌙 Optional dark mode (if included)
-
 🛠️ Technologies Used
 HTML5 – Structure of the game
 
